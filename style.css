@@ -1,0 +1,57 @@
+/*************** Reset *********************/
+* {
+  margin: 5px;
+  padding: 2px;
+  box-sizing: border-box;
+  background-color: beige;
+  color: darkblue;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: "Playfair Display", serif;
+  font-style: normal;
+}
+h2 {
+  font-size: 20px;
+  font-family: "Playfair Display", serif;
+  font-style: normal;
+}
+h3 {
+  font-size: 20px;
+  font-family: "Playfair Display", serif;
+  font-style: normal;
+}
+
+dt {
+  font-family: "Playfair Display", serif;
+  font-style: normal;
+}
+
+dl {
+  font-size: 15px;
+  font-family: "Playfair Display", serif;
+  font-style: normal;
+}
+
+li {
+  font-size: 16px;
+  font-family: "Libertinus Serif Display", system-ui;
+}
+
+ul {
+  font-size: 16px;
+  font-family: "Libertinus Serif Display", system-ui;
+}
+
+p {
+  font-size: 16px;
+  font-family: "Libertinus Serif Display", system-ui;
+}
+
+img {
+  width: 300px;
+  height: auto;
+  display: block;
+  border-radius: 0px;
+}
